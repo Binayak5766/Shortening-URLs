@@ -9,3 +9,12 @@ After all this just enjoy the application and do tell me the feedback.
 Currently I am working on to create a centralised database like AWS or Google cloud service. So if any of you are experienced in that area do mail me.
 Mail: binayak5766@gmail.com
 Before downloading the chromedriver do check the version of the chrome you are using.
+
+
+You can download the postgresql server by going in the following link:
+https://www.postgresql.org/download/
+You can easily download according to your operating system.
+
+Then downloading the chromedriver is through this link:
+https://chromedriver.chromium.org/downloads
+Before downloading the chromedriver do check which version of chrome you are using.
